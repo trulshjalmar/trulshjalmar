@@ -1,5 +1,6 @@
-## Hi there 👋
+### Howdy! 🤠
 
+I’m a cybersecurity student, excited to learn and explore new things in the world of security and technology.
 <!--
 **trulshjalmar/trulshjalmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
