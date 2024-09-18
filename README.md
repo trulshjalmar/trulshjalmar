@@ -1,6 +1,11 @@
 ### Howdy! 🤠
 
-I’m a cybersecurity student, excited to learn and explore new things in the world of security and technology.
+I’m a cybersecurity student, excited to learn and explore new things in the world of security and technology. 📚🔒
+
+### 💼
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/truls-hjalmar-t%C3%B8rnvall-andersen-42959a190/) 
+
+
 <!--
 **trulshjalmar/trulshjalmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
