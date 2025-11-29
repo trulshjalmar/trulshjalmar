@@ -1,7 +1,7 @@
 # Howdy! 🤠
 
 
-**I’m a cybersecurity student, excited to learn and explore new things in the world of security and technology. 📚🔒**
+**security 📚🔒**
 
 
 ## 💼🔍💻🗿
